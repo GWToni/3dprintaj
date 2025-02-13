@@ -685,9 +685,6 @@ animation-name: fade;
 animation-duration: 1.5s;
 }
 
-body {
-  min-width: 470px; /* min. širina stranice na 470px */
-}
 
 @keyframes fade {
 from {opacity: .4} 
